@@ -1,6 +1,8 @@
 theTest = input("are you ready for some testing?")
-conflict = false
-if theTest==yes and conflict==False:
+
+print("stuff stuff stuff")
+
+if theTest==yes:
     print("nice!")
     print("really nice!")
 else:
